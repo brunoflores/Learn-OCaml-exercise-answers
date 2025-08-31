@@ -1,0 +1,4 @@
+(executable
+ (public_name learnocaml)
+ (name alpha_beta)
+ (libraries learnocaml))

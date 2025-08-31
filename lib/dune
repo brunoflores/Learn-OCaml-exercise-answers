@@ -1,0 +1,3 @@
+(library
+ (name learnocaml)
+  (modules alpha_beta))
