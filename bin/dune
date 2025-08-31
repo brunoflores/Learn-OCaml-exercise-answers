@@ -7,3 +7,8 @@
  (public_name learnocaml)
  (name anagrams)
  (libraries str learnocaml))
+
+(executable
+ (public_name learnocaml)
+ (name breaking_a_sort)
+ (libraries str learnocaml))
