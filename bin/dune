@@ -2,3 +2,8 @@
  (public_name learnocaml)
  (name alpha_beta)
  (libraries learnocaml))
+
+(executable
+ (public_name learnocaml)
+ (name anagrams)
+ (libraries str learnocaml))
